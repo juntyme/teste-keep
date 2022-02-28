@@ -3,7 +3,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <br>
-<img src="https://user-images.githubusercontent.com/67340099/154813929-108de5b4-4d52-4d50-b9e5-b497d569e75c.png" >
+<img src="https://user-images.githubusercontent.com/67340099/156049947-aae697f3-a4d6-4bd9-86bf-4f0f855f4c32.png" >
 <br>
 
 Sistema de Cadastro de Discas Com Laravel / Laradock:
