@@ -17,7 +17,7 @@
                                         @endforeach
                                     </select>
                                     <input class="col-auto form-control form-control-lg" id="search" type="text"
-                                        placeholder="Busca por veículos" data-sb-validations="required" value="" />
+                                        placeholder="Busca por modelo" data-sb-validations="required" value="" />
                                     <div class="col-auto">
                                         <button class="btn btn-primary btn-lg " id="submitButton"
                                             type="submit">Localizar</button>

@@ -44,10 +44,10 @@
                         <input type="password" name="password" id="password" class="form-control" placeholder="Senha"
                             required="">
                     </div>
-                    <div class="justify-content-center">
+                    <div class="d-flex justify-content-end">
                         <button class="btn btn-lg btn-primary btn-block " type="submit">Acessar</button>
                     </div>
-                    <div class="text-center ">
+                    <div class="d-flex justify-content-center">
                         <a href="{{ route('home.cadastro') }}" class="text-decoration-none ">Fazer
                             Cadastro.</a>
                     </div>
