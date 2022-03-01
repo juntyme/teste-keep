@@ -49,7 +49,7 @@ senha: admin<br/>
 
 1. Clone o Laradock dentro do seu projeto PHP:<br>
 
-git clone https://github.com/Laradock/laradock.git 2.<br><br>
+git clone https://github.com/Laradock/laradock.git <br><br>
 
 2. Entre na pasta laradock e renomeie .env.example para .env.<br>
 
