@@ -71,6 +71,23 @@
                             </div>
                         </div>
                     @endforeach
+                    <div class="d-flex justify-content-center">
+                        @if (isset($dateForm))
+                            <div class="col-sm-6">
+                                <strong>Resultado: {{ $dicas->total() }}</strong>
+                            </div>
+                            <div class="col-sm-6">
+                                {{ $dicas->appends($dateForm)->onEachSide(0)->links() ?? '' }}
+                            </div>
+                        @else
+                            <div class="col-sm-6">
+                                <strong>Resultado: {{ $dicas->total() }}</strong>
+                            </div>
+                            <div class="col-sm-6">
+                                {{ $dicas->onEachSide(0)->links() ?? '' }}
+                            </div>
+                        @endif
+                    </div>
                 @else
                     <div class="col-12">
                         <h2>Sem Dicas Cadastradas...</h2>
