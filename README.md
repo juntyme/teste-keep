@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/67340099/156049947-aae697f3-a4d6-4bd9-86bf-4f0f855f4c32.png" >
 <br>
 
-Sistema de Cadastro de Discas Com Laravel / Laradock:
+Sistema de Cadastro de Discas Com Laravel / Laradock::
 
 -   PHP ^7.4.22
 -   Laravel Framework 8.83.1
